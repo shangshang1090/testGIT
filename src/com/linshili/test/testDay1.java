@@ -9,5 +9,6 @@ public class testDay1 {
         System.out.println("hello master test1");
         System.out.println("push success");
         System.out.println("pull success");
+        System.out.println("diudiu do git");
     }
 }
