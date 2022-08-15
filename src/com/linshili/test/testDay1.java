@@ -10,5 +10,6 @@ public class testDay1 {
         System.out.println("push success");
         System.out.println("pull success");
         System.out.println("我是谁");
+        System.out.println("你是diuidu");
     }
 }
