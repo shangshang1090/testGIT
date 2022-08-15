@@ -5,5 +5,6 @@ public class testDay1 {
         System.out.println("hello git");
         System.out.println("hello github");
         System.out.println("hello branches");
+        System.out.println("hello branches test");
     }
 }
