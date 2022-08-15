@@ -8,6 +8,6 @@ public class testDay1 {
         System.out.println("hello master test");
         System.out.println("hello master test1");
         System.out.println("push success");
-
+        System.out.println("pull success");
     }
 }
