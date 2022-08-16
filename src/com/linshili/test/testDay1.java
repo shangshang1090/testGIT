@@ -11,5 +11,7 @@ public class testDay1 {
         System.out.println("pull success");
         System.out.println("主线更新1.0");
         System.out.println("version0.9");
+        System.out.println("1.2");
+        System.out.println("1.3");
     }
 }
