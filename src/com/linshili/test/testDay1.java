@@ -15,5 +15,6 @@ public class testDay1 {
         System.out.println("1.3");
         System.out.println("1.4");
         System.out.println("完成login");
+        System.out.println("完成退出功能");
     }
 }
