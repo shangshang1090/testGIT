@@ -10,5 +10,6 @@ public class testDay1 {
         System.out.println("push success");
         System.out.println("pull success");
         System.out.println("主线更新1.0");
+        System.out.println("version0.9");
     }
 }
