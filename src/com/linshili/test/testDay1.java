@@ -12,5 +12,6 @@ public class testDay1 {
         System.out.println("我是谁");
         System.out.println("你是diuidu");
         System.out.println("今天星期二");
+
     }
 }
