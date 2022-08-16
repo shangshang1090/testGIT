@@ -13,5 +13,6 @@ public class testDay1 {
         System.out.println("version0.9");
         System.out.println("1.2");
         System.out.println("1.3");
+        System.out.println("1.4");
     }
 }
