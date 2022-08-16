@@ -12,5 +12,7 @@ public class testDay1 {
         System.out.println("我是谁");
         System.out.println("你是diuidu");
         System.out.println("今天星期二");
+        System.out.println("主线更新1.0");
+        System.out.println("version0.9");
     }
 }
